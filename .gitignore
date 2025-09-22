@@ -1,0 +1,13 @@
+# Ignore dataset folders or large data files
+data/
+*.npy
+*.csv
+*.h5
+
+# Ignore virtual environment folders
+venv/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
