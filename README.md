@@ -19,11 +19,5 @@ pip install -r requirements.txt
 2. Train model: python src/train.py 
 3. Predict: python src/predict.py 
  
-## Project Structure 
-ÃÄÄ data/ 
-ÃÄÄ models/ 
-ÃÄÄ src/ 
-ÀÄÄ requirements.txt 
- 
 ## Results 
 Approximately 49% test accuracy achieved. 
